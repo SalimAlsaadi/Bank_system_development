@@ -1,0 +1,17 @@
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\bin\Debug\net6.0\Bank_system_development.exe
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\bin\Debug\net6.0\Bank_system_development.deps.json
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\bin\Debug\net6.0\Bank_system_development.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\bin\Debug\net6.0\Bank_system_development.dll
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\bin\Debug\net6.0\Bank_system_development.pdb
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.dll
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\refint\Bank_system_development.dll
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.pdb
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\ref\Bank_system_development.dll
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\TRA\Desktop\code-TRA\Bank_system_development\Bank_system_development\obj\Debug\net6.0\Bank_system_development.csproj.CopyComplete

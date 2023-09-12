@@ -1,0 +1,44 @@
+[
+  {
+    "name": "aa",
+    "email": "aa",
+    "accountNumber": 432790131,
+    "balance": 100.0
+  },
+  {
+    "name": "aaaa",
+    "email": "aaaa",
+    "accountNumber": 398822135,
+    "balance": 4010.0
+  },
+  {
+    "name": "aaaa",
+    "email": "aaaa",
+    "accountNumber": 682471059,
+    "balance": 23201.0
+  },
+  {
+    "name": "aa",
+    "email": "aa",
+    "accountNumber": 816683855,
+    "balance": 1200.0
+  },
+  {
+    "name": "aaaa",
+    "email": "aaaa",
+    "accountNumber": 682471059,
+    "balance": 1200.0
+  },
+  {
+    "name": "salim",
+    "email": "al-saadis-s-s@hotmail.com",
+    "accountNumber": 915642801,
+    "balance": 7897.0
+  },
+  {
+    "name": "salim",
+    "email": "al-saadis-s-s@hotmail.com",
+    "accountNumber": 144893087,
+    "balance": 800.0
+  }
+]

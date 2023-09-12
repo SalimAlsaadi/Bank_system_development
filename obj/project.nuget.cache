@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "au0IomxkuXXzfaD/2dgfjOugijGUL3I9TBDa/bFaefC0gUflEVLm6OFtQTFYSmE8cazey2q8ZJzJA3wdGIZETg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TRA\\Desktop\\code-TRA\\Bank_system_development\\Bank_system_development\\Bank_system_development.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
